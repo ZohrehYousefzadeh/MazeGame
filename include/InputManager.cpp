@@ -5,8 +5,7 @@ namespace Maze
 		class Input
 		{
 			public:
-        //Get the Start-Place & Return the Number of Start-Place
-				int get_input();
+				int get_input();//Get the Start-Place & Return the Number of Start-Place
 		};
 	}
 }
